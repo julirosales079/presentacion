@@ -541,54 +541,6 @@ layout: default
 layout: default
 ---
 
-# HU-007: Acceso directo por ubicación
-## Épica 3: Selección de Ubicación
-
-<div class="mt-8">
-
-<div class="text-lg mb-6">
-**Como** cliente que recibe un enlace específico,  
-**Quiero** que la aplicación detecte automáticamente la sede desde la URL,  
-**Para** no tener que seleccionar manualmente la ubicación.
-</div>
-</div>
-
-<div class="bg-orange-50 p-6 rounded-lg border border-orange-200">
-  <h4 class="text-orange-800 font-semibold text-lg mb-4">📋 Criterios de Aceptación</h4>
-  <div class="space-y-3">
-    <div class="flex items-start gap-3">
-      <span class="text-green-600 text-xl">✅</span>
-      <span>Al abrir un enlace con parámetro de sede, esta se selecciona automáticamente</span>
-    </div>
-    <div class="flex items-start gap-3">
-      <span class="text-green-600 text-xl">✅</span>
-      <span>Puedo cambiar la sede si lo deseo</span>
-    <div class="flex items-start gap-3">
-      <span class="text-green-600 text-xl">✅</span>
-<div class="bg-orange-50 p-6 rounded-lg border border-orange-200">
-  <h4 class="text-orange-800 font-semibold text-lg mb-4">📋 Criterios de Aceptación</h4>
-  <div class="space-y-3">
-    <div class="flex items-start gap-3">
-      <span class="text-green-600 text-xl">✅</span>
-      <span>Al abrir un enlace con parámetro de sede, esta se selecciona automáticamente</span>
-    </div>
-    <div class="flex items-start gap-3">
-      <span class="text-green-600 text-xl">✅</span>
-      <span>Puedo cambiar la sede si lo deseo</span>
-    </div>
-    <div class="flex items-start gap-3">
-      <span class="text-green-600 text-xl">✅</span>
-      <span>Los productos mostrados corresponden a la sede seleccionada</span>
-    </div>
-  </div>
-</div>
-
-</div>
-
----
-layout: default
----
-
 # HU-008: Recibir mi pedido en casa
 ## Épica 4: Modalidades de Entrega
 
