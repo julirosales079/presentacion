@@ -413,6 +413,9 @@ layout: default
     </div>
   </div>
 </div>
+
+</div>
+
 ---
 layout: default
 ---
@@ -448,6 +451,8 @@ layout: default
       <span>El total se actualiza automáticamente con cada cambio</span>
     </div>
   </div>
+</div>
+
 </div>
 
 ---
@@ -487,6 +492,8 @@ layout: default
   </div>
 </div>
 
+</div>
+
 ---
 layout: default
 ---
@@ -524,6 +531,8 @@ layout: default
   </div>
 </div>
 
+</div>
+
 ---
 layout: default
 ---
@@ -554,7 +563,6 @@ layout: default
     <div class="flex items-start gap-3">
       <span class="text-green-600 text-xl">✅</span>
       <span>Puedo cambiar la sede si lo deseo</span>
-    </div>
     <div class="flex items-start gap-3">
       <span class="text-green-600 text-xl">✅</span>
 <div class="bg-orange-50 p-6 rounded-lg border border-orange-200">
@@ -573,6 +581,8 @@ layout: default
       <span>Los productos mostrados corresponden a la sede seleccionada</span>
     </div>
   </div>
+</div>
+
 </div>
 
 ---
@@ -610,6 +620,8 @@ layout: default
       <span>El pedido se envía automáticamente por WhatsApp a la sede</span>
     </div>
   </div>
+</div>
+
 </div>
 
 ---
@@ -655,6 +667,8 @@ layout: default
 
 </div>
 
+</div>
+
 ---
 layout: default
 ---
@@ -690,6 +704,8 @@ layout: default
       <span>Puedo descargar e imprimir la factura inmediatamente</span>
     </div>
   </div>
+</div>
+
 </div>
 
 ---
@@ -729,6 +745,8 @@ layout: default
   </div>
 </div>
 
+</div>
+
 ---
 layout: default
 ---
@@ -766,6 +784,8 @@ layout: default
   </div>
 </div>
 
+</div>
+
 ---
 layout: default
 ---
@@ -801,6 +821,8 @@ layout: default
       <span>Los botones son suficientemente grandes para tocar fácilmente</span>
     </div>
   </div>
+</div>
+
 </div>
 
 ---
