@@ -478,23 +478,6 @@ layout: default
     </div>
     <div class="flex items-start gap-3">
       <span class="text-green-600 text-xl">✅</span>
-**Quiero** ver un resumen detallado de mi pedido antes de enviarlo,  
-**Para** asegurarme de que todo esté correcto y conocer el costo total.
-</div>
-
-<div class="bg-orange-50 p-6 rounded-lg border border-orange-200">
-  <h4 class="text-orange-800 font-semibold text-lg mb-4">📋 Criterios de Aceptación</h4>
-  <div class="space-y-3">
-    <div class="flex items-start gap-3">
-      <span class="text-green-600 text-xl">✅</span>
-      <span>Veo todos los productos con sus personalizaciones específicas</span>
-    </div>
-    <div class="flex items-start gap-3">
-      <span class="text-green-600 text-xl">✅</span>
-      <span>El desglose incluye subtotal, impuestos (INC 8%) y total final</span>
-    </div>
-    <div class="flex items-start gap-3">
-      <span class="text-green-600 text-xl">✅</span>
       <span>Puedo editar o eliminar productos desde el resumen</span>
     </div>
     <div class="flex items-start gap-3">
@@ -590,8 +573,6 @@ layout: default
       <span>Los productos mostrados corresponden a la sede seleccionada</span>
     </div>
   </div>
-</div>
-
 </div>
 
 ---
