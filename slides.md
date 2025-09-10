@@ -619,8 +619,6 @@ layout: default
 
 </div>
 
-</div>
-
 ---
 layout: default
 ---
